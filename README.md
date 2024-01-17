@@ -1,8 +1,6 @@
-*********************************************************
-*                                                       *
-*                    Ascending Order                    *
-*                                                       *
-*********************************************************
+ Ascending Order
+ ---------------
+
 Choose array order : 
 Press 1 for Ascending Order 
 Press 2 for Descending Order
@@ -11,12 +9,9 @@ Sorted Array :
 [-13, -9, -8, 18, 77]
 
 
-*********************************************************
-*                                                       *
-*                    Descending Order                   *
-*                                                       *
-*********************************************************
-
+ Descending Order
+ ---------------
+ 
 Choose array order : 
 Press 1 for Ascending Order 
 Press 2 for Descending Order
